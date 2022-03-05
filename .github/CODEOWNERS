@@ -2,3 +2,4 @@
 *.js @manupm
 *.yml @manupm
 /public/ @manupm
+
