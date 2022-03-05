@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Manu Pando
+          Learn React Manu Pando Mones
         </a>
       </header>
     </div>
