@@ -1,5 +1,5 @@
 * @manupm
 *.js @manupm
-*.yml @manupm
+*.yml @manuelpando
 /public/ @manupm
 
